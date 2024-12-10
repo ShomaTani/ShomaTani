@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Making an app especially the ones that use AI.
 - 📫 How to reach me ... Instagram @shomat328
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... From Japan, studying in the UK, every holiday in Belgium
+- ⚡ Fun fact: ... From Japan, studying in the UK, family living in Belgium
 
 <!---
 ShomaTani/ShomaTani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
