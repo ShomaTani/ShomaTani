@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ShomaTani
-- 👀 I’m interested in ... Deep learning, especially reinforcement learning
+- 👀 I’m interested in ... Making the training step and inference of Deep Reinforcement Learning
 - 🌱 I’m currently learning ... Maths, Further maths, Physics and Chemistry as A level subjects
-- 💞️ I’m looking to collaborate on ... Making an app especially the ones that use AI.
+- 💞️ I’m looking to collaborate on ... Anything! I can do backend, robotics, machine learning etc...
 - 📫 How to reach me ... Instagram @shomat328
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... From Japan, studying in the UK, family living in Belgium
+- ⚡ Fun fact: ... Japanese
 
 <!---
 ShomaTani/ShomaTani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
