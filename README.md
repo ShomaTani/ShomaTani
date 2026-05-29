@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShomaTani
 - 👀 I’m interested in ... Making the training and inference of Deep Reinforcement Learning EXPLAINABLE/TRANSPARENT
-- 🌱 I’m currently learning ... at Tokyo University 
-- 💞️ I’m looking to collaborate on ... Anything! I can do backend, robotics, machine learning etc...
+- 🌱 I’m currently learning ... at The University of Tokyo
+- 💞️ I’m looking to collaborate on ... Anything! I can do deep learning robotics, backend etc...
 - 📫 How to reach me ... Instagram @shomat328
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Japanese
